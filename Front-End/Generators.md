@@ -1,0 +1,6 @@
+* [Clippy](https://bennettfeely.com/clippy/)
+* [Box Shadow](https://html-css-js.com/css/generator/box-shadow/)
+* [Transition](https://makingcss.com/transition)
+* [Transfonter](https://transfonter.org/)
+* [CSSportal](https://www.cssportal.com/css3-flip-switch/)
+* [Flexbox generator](https://flexbox.help/)
