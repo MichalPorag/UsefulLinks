@@ -8,3 +8,5 @@ I hope you will find it helpful.** 😊
 
 ## For Front-End Developers:
 * [Fonts](https://github.com/MichalPorag/UsefulLinks/blob/main/Fonts.md)
+* [Image Place Holders](https://github.com/MichalPorag/UsefulLinks/blob/main/Front-End/PlaceHolders.md)
+* [Generators](https://github.com/MichalPorag/UsefulLinks/blob/main/Front-End/Generators.md)
