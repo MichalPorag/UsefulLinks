@@ -10,3 +10,7 @@ I hope you will find it helpful.** 😊
 * [Fonts](https://github.com/MichalPorag/UsefulLinks/blob/main/Front-End/Fonts.md)
 * [Image Place Holders](https://github.com/MichalPorag/UsefulLinks/blob/main/Front-End/PlaceHolders.md)
 * [Generators](https://github.com/MichalPorag/UsefulLinks/blob/main/Front-End/Generators.md)
+* [Must See Lectures](https://github.com/MichalPorag/UsefulLinks/blob/main/Front-End/MustSeeLectures.md)
+* [SCSS](https://github.com/MichalPorag/UsefulLinks/blob/main/Front-End/SCSS.md)
+* [Youtube Blogs](https://github.com/MichalPorag/UsefulLinks/blob/main/Front-End/YoutubeBlogs.md)
+* [Learning Platforms](https://github.com/MichalPorag/UsefulLinks/blob/main/Front-End/LearningPlatforms.md)
