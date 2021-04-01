@@ -4,7 +4,23 @@ I hope you will find it helpful.** 😊
 
 [This repo started as a medium article](https://michal-porag.medium.com/useful-links-cd9eaadaf48f)
 
-
+## Universal:
+* [Books](https://github.com/MichalPorag/UsefulLinks/blob/main/Universal/Books.md)
+* [Cheat Sheets](https://github.com/MichalPorag/UsefulLinks/blob/main/Universal/Cheat-Sheets.md)
+* [Cool API's](https://github.com/MichalPorag/UsefulLinks/blob/main/Universal/CoolAPIs.md)
+* [Demi Datas](https://github.com/MichalPorag/UsefulLinks/blob/main/Universal/DemiDatas.md)
+* [Generators](https://github.com/MichalPorag/UsefulLinks/blob/main/Universal/Generators.md)
+* [Learning Platforms](https://github.com/MichalPorag/UsefulLinks/blob/main/Universal/LearningPlatforms.md)
+* [OnlineEditors](https://github.com/MichalPorag/UsefulLinks/blob/main/Universal/OnlineEditors.md)
+* [OpenSource](https://github.com/MichalPorag/UsefulLinks/blob/main/Universal/OpenSource.md)
+* [OtherStuff](https://github.com/MichalPorag/UsefulLinks/blob/main/Universal/OtherStuff.md)
+* [Podcasts](https://github.com/MichalPorag/UsefulLinks/blob/main/Universal/Podcasts.md)
+* [Preparing For Job Interviews](https://github.com/MichalPorag/UsefulLinks/blob/main/Universal/PreparingForJobInterviews.md)
+* [Sites For Submission CFP's](https://github.com/MichalPorag/UsefulLinks/blob/main/Universal/SitesForSubmissionCFPs.md)
+* [SpecificVideos](https://github.com/MichalPorag/UsefulLinks/blob/main/Universal/SpecificVideos.md)
+* [Task Management Websites](https://github.com/MichalPorag/UsefulLinks/blob/main/Universal/TaskManagementWebsites.md)
+* [Tools To Write Articles](https://github.com/MichalPorag/UsefulLinks/blob/main/Universal/ToolsToWriteArticles.md)
+* [Youtube Blogs](https://github.com/MichalPorag/UsefulLinks/blob/main/Universal/YoutubeBlogs.md)
 
 ## For Front-End Developers:
 * [Fonts](https://github.com/MichalPorag/UsefulLinks/blob/main/Front-End/Fonts.md)
