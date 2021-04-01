@@ -6,7 +6,7 @@
 * [Kathy Sierra](https://en.wikipedia.org/wiki/Kathy_Sierra) and Bert Bates, *Head First Java*.
 * [Joshua Bloch](https://en.wikipedia.org/wiki/Joshua_Bloch) (2001). Effective Java*.
 * [Joshua Bloch](https://en.wikipedia.org/wiki/Joshua_Bloch)(2005). *Java Puzzlers*.
-* Brian Goetz, Tim Peierls, Doug Lea, Joshua Bloch, Joseph Bowbeer, David Holmes (2006). *Java concurrency In Practic*.
+* *Java concurrency In Practic* by Brian Goetz, Tim Peierls, Doug Lea, Joshua Bloch, Joseph Bowbeer, David Holmes (2006).
 * *The Go Programming Language* by Alan A. A. Donovan, [Brian W. Kernighan](https://en.wikipedia.org/wiki/Brian_Kernighan) (2015).
 * *The Practice Of Programming* by [Brian W. Kernighan](https://en.wikipedia.org/wiki/Brian_Kernighan), [Rob Pike](https://en.wikipedia.org/wiki/Rob_Pike) (1999). 
 * [Brian W. Kernighan](https://en.wikipedia.org/wiki/Brian_Kernighan), [Rob Pike](https://en.wikipedia.org/wiki/Rob_Pike) (1990). *The UNIX Programming Environment*.
