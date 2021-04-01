@@ -4,8 +4,8 @@
 * Gayle Laakmann McDowell(2008). *Cracking The Coding Interview*. CareerCup
 * [Eric Freeman](https://en.wikipedia.org/wiki/Eric_Freeman_(writer)), Elisabeth Freeman, [Kathy Sierra](https://en.wikipedia.org/wiki/Kathy_Sierra), and Bert Bates Head First Design Patterns.
 * [Kathy Sierra](https://en.wikipedia.org/wiki/Kathy_Sierra) and Bert Bates, *Head First Java*.
-* [Joshua Bloch](https://en.wikipedia.org/wiki/Joshua_Bloch) (2001). Effective Java*.
-* [Joshua Bloch](https://en.wikipedia.org/wiki/Joshua_Bloch)(2005). *Java Puzzlers*.
+* *Effective Java* by [Joshua Bloch](https://en.wikipedia.org/wiki/Joshua_Bloch) (2001).
+* *Java Puzzlers* by [Joshua Bloch](https://en.wikipedia.org/wiki/Joshua_Bloch)(2005).
 * *Java concurrency In Practic* by Brian Goetz, Tim Peierls, Doug Lea, Joshua Bloch, Joseph Bowbeer, David Holmes (2006).
 * *The Go Programming Language* by Alan A. A. Donovan, [Brian W. Kernighan](https://en.wikipedia.org/wiki/Brian_Kernighan) (2015).
 * *The Practice Of Programming* by [Brian W. Kernighan](https://en.wikipedia.org/wiki/Brian_Kernighan), [Rob Pike](https://en.wikipedia.org/wiki/Rob_Pike) (1999). 
