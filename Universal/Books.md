@@ -11,8 +11,8 @@
 * *The Practice Of Programming* by [Brian W. Kernighan](https://en.wikipedia.org/wiki/Brian_Kernighan), [Rob Pike](https://en.wikipedia.org/wiki/Rob_Pike) (1999). 
 * [Brian W. Kernighan](https://en.wikipedia.org/wiki/Brian_Kernighan), [Rob Pike](https://en.wikipedia.org/wiki/Rob_Pike) (1990). *The UNIX Programming Environment*.
 * Kevin R. Fall, W. Richard Stevens (2012). *TCP/IP Illustrated Volume 1, 2*.
-* By Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein(2001). *Introduction to Algorithms*.
-* Steven S. Skiena (2008). *The Algorithm Design Manual*.
-* By David Thomas, Andrew Hunt (2019). *The Pragmatic Programmers*.
-* Alex Banks, Eve Porcello (2017). *Learning React*.
+* *Introduction to Algorithms* by Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein(2001).
+* *The Algorithm Design Manual* by Steven S. Skiena (2008).
+* *The Pragmatic Programmers* by David Thomas, Andrew Hunt (2019).
+* *Learning React* by Alex Banks, Eve Porcello (2017).
 * [Nir Eyal](https://www.google.com/search?sa=X&biw=1420&bih=1030&sxsrf=ALeKk0267jZDk1BhgHm6sEaGnyvaFVVMxg:1588252064983&q=Nir+Eyal&stick=H4sIAAAAAAAAAOPgE-LRT9c3rDIqqSzLNSxQ4gXxDNPNkoyNzM0ttWSyk630k_Lzs_XLizJLSlLz4svzi7KtEktLMvKLFrFy-GUWKbhWJubsYGUEAIRCL1JLAAAA&ved=2ahUKEwjKhZaBnJDpAhXI16QKHVRlDDYQmxMoATAhegQIDhAD), [Ryan Hoover](https://www.google.com/search?sa=X&biw=1420&bih=1030&sxsrf=ALeKk0267jZDk1BhgHm6sEaGnyvaFVVMxg:1588252064983&q=Ryan+Hoover&stick=H4sIAAAAAAAAAOPgE-LRT9c3rDIqqSzLNSxQAvMystIN0zMMDLVkspOt9JPy87P1y4syS0pS8-LL84uyrRJLSzLyixaxcgdVJuYpeOTnl6UW7WBlBACBc4dZTQAAAA&ved=2ahUKEwjKhZaBnJDpAhXI16QKHVRlDDYQmxMoAjAhegQIDhAE) (2013). *Hooked*.
