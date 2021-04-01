@@ -1,0 +1,7 @@
+* [עושים תוכנה](https://www.osimhistoria.com/software)
+* [Extend](https://www.youtube.com/watch?v=CtJHlgfTzIM&list=PLpII905PU6QpPoTaBY1JA9PF69cLsVDIq) (Hebrew)
+* [Syntax](https://www.podbean.com/podcast-detail/qje84-567f6/Syntax---Tasty-Web-Development-Treats-Podcast)
+* [מפתחים חסרי תרבות](http://notarbut.co/)(Hebrew)
+* [Java Script Jabber](https://open.spotify.com/show/6xpiit8aJmwDHk1rKdxmri?si=s-KyxxUVTu-3knV8Bg6wKg)
+* [The CSS Podcast](https://open.spotify.com/show/0iW21xFsrH509BGTEs3ufN?si=1gKo1uZJRnGBoZ-p0Oq-8g)
+* [Modern Web](https://open.spotify.com/show/5FGA58foRFkJ6IgJbCFYgm?si=Wy4WWJ59SdO4srqQ5wT85g)
