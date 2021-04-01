@@ -1,0 +1,8 @@
+* [Udemy](https://www.udemy.com/)
+* [Lynda](https://www.lynda.com/)
+* [Fine Tutorials](https://fine-tutorials.thinkific.com/collections)
+* [WesBos](https://courses.wesbos.com/account/signin)
+* [Tutorialspoint](https://www.tutorialspoint.com/index.htm)
+* [Learn GIT branching](https://learngitbranching.js.org/)
+* [Learn Regex101](https://regex101.com/)
+* [Codecademy](https://www.codecademy.com/)
