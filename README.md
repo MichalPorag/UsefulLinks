@@ -21,6 +21,7 @@ I hope you will find it helpful.** 😊
 * [Task Management Websites](https://github.com/MichalPorag/UsefulLinks/blob/main/Universal/TaskManagementWebsites.md)
 * [Tools To Write Articles](https://github.com/MichalPorag/UsefulLinks/blob/main/Universal/ToolsToWriteArticles.md)
 * [Youtube Blogs](https://github.com/MichalPorag/UsefulLinks/blob/main/Universal/YoutubeBlogs.md)
+* [Git](https://github.com/MichalPorag/UsefulLinks/blob/main/Universal/Git.md)
 
 ## For Front-End Developers:
 * [Fonts](https://github.com/MichalPorag/UsefulLinks/blob/main/Front-End/Fonts.md)
