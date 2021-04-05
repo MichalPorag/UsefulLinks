@@ -4,6 +4,8 @@ I hope you will find it helpful.** 😊
 
 This repo started as this [medium article](https://michal-porag.medium.com/useful-links-cd9eaadaf48f)
 
+![Drowing of tree by Michal Porag](https://github.com/MichalPorag/UsefulLinks/blob/main/44398036_10213347376894588_7707752879246802944_n.jpg)
+
 ## Universal:
 * [Books](https://github.com/MichalPorag/UsefulLinks/blob/main/Universal/Books.md)
 * [Cheat Sheets](https://github.com/MichalPorag/UsefulLinks/blob/main/Universal/Cheat-Sheets.md)
