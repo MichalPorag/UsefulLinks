@@ -36,3 +36,8 @@ This repo started as this [medium article](https://michal-porag.medium.com/usefu
 * [Js UI Collection Components](https://github.com/MichalPorag/UsefulLinks/blob/main/Front-End/JsUICollectionComponents.md)
 * [Recommended Articles](https://github.com/MichalPorag/UsefulLinks/blob/main/Front-End/recommendedArticles.md)
 * [Libraries](https://github.com/MichalPorag/UsefulLinks/blob/main/Front-End/Libraries.md)
+
+# Angular
+* [Articles](https://github.com/MichalPorag/UsefulLinks/blob/main/Front-End/Angular/Articles.md)
+* [Lectures](https://github.com/MichalPorag/UsefulLinks/blob/main/Front-End/Angular/Lectures.md)
+* [Libraries](https://github.com/MichalPorag/UsefulLinks/blob/main/Front-End/Angular/Libraries.md)
