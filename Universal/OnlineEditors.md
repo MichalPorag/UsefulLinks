@@ -1,3 +1,5 @@
 * [Codepen](https://codepen.io/your-work)
 * [CodeSandBox](https://codesandbox.io/?from-app=1)
 * [Stackblitz](https://stackblitz.com/?fbclid=IwAR0M_Kqquxgc0ws9eAxcoXe7CITHMgx9UQ9FTTooPknjTrsobmAVOgUmB6w)
+* [Replit](https://replit.com/)
+* [jsfiddle](https://jsfiddle.net/?fbclid=IwAR35x6dyn4c6TptMHsoSeTuneAd0u-Xh_Oi6Lw5qTvzW5f80ncAZiVE6OL0)
